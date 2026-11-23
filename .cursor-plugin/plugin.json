@@ -1,0 +1,29 @@
+{
+  "name": "hoverbot",
+  "version": "1.0.0",
+  "description": "See what your chatbots could not answer. Read shopper conversations, find gaps in the knowledge base, and answer customers waiting for a person in one HoverBot workspace.",
+  "author": {
+    "name": "VGTech",
+    "email": "hi@hoverbot.ai",
+    "url": "https://www.hoverbot.ai/about"
+  },
+  "homepage": "https://www.hoverbot.ai",
+  "repository": "https://github.com/HoverBotAI/hoverbot-plugins",
+  "license": "MIT",
+  "keywords": [
+    "hoverbot",
+    "mcp",
+    "chatbot",
+    "customer-support",
+    "knowledge-base",
+    "analytics"
+  ],
+  "displayName": "HoverBot",
+  "logo": "logo.svg",
+  "primaryColor": "#8a5a28",
+  "mcpServers": {
+    "hoverbot": {
+      "url": "https://mcp.hoverbot.ai/mcp"
+    }
+  }
+}
